@@ -47,6 +47,24 @@ This file summarizes analytical insights from running the queries, highlighting:
 - Indicators of synthetic identities and money mules
 - Behavioral patterns suggesting fraud
 
+## Insights and Documentation
+
+Unusual Spending Behavior: Customers who suddenly start spending large amounts in risky categories.
+
+Transaction Velocity: Rapid transactions hinting at bot-driven fraud.
+
+Cross-Border Transfers: Tracking unusual international transactions.
+
+Suspicious Withdrawals: ATM withdrawals exceeding a daily limit.
+
+Dormant Accounts Activation: Detecting sudden high-value transactions in previously inactive accounts.
+
+Multiple Accounts Behavior: Identifying customers using multiple accounts for financial crime.
+
+Synthetic Identity Fraud: Spotting fraudulent accounts created using mismatched identity details.
+
+Money Mule Activity: Detecting rapid fund movement indicative of money laundering.
+
 ## Contribution
 Contributions are welcome! If you have improvements, submit a pull request.
 
