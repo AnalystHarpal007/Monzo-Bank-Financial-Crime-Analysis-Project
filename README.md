@@ -1,3 +1,5 @@
+![monzo](https://github.com/user-attachments/assets/5945e94c-dc29-45f2-a4fb-2ea56a2a5e87)
+
 # Monzo-Bank-Financial-Crime-Analysis-Project
 
 ## Project Overview
