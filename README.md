@@ -7,7 +7,7 @@ This repository contains a simulated financial crime analysis project designed t
 
 ## Repository Structure
 - **README.md** (This file: Project overview and instructions)
-- **dummy_data.sql** (SQL scripts for generating the dataset)
+- **Monzo_dummy_data.sql** (SQL scripts for generating the dataset)
 - **queries.sql** (SQL solutions for detecting financial crime patterns)
 - **insights.md** (Key findings, explanations, and analytical insights)
 
