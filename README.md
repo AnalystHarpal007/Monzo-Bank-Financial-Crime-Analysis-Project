@@ -1,7 +1,5 @@
 # Monzo-Bank-Financial-Crime-Analysis-Project
 
-# Monzo Bank Financial Crime Analysis
-
 ## Project Overview
 This repository contains a simulated financial crime analysis project designed to demonstrate advanced SQL skills, fraud detection techniques, and data analysis methodologies for Monzo Bank’s financial crime investigations. The dataset includes dummy data representing Monzo's transactional ecosystem, along with SQL queries for detecting suspicious activities.
 
